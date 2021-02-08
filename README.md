@@ -23,7 +23,7 @@ Este repositorio contiene los siguientes recursos:
 
 ## Muestra
 
-La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/noticias-economicas/blob/main/noticias-economicas-sample.csv).
+La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/ofertas-de-trabajo/blob/main/ofertas-de-trabajo-sample.csv).
 
 ## Documentación
 
