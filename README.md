@@ -1,7 +1,7 @@
 # Datasets de Ofertas de Trabajo
 
 <a href="https://datamarket.es">
-  <img src="https://datamarket.es/static/core/img/banners/noticias-economicas-banner.png">
+  <img src="https://datamarket.es/static/core/img/banners/ofertas-de-trabajo-banner.png">
 </a>
 
 ## Descripción
