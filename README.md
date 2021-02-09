@@ -11,8 +11,8 @@ Todas las __ofertas de trabajo publicadas en las principales plataformas de Espa
 Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: diariamente
-* __Volumen estimado__: 
-* __Histórico__: 
+* __Volumen estimado__: 5.000 registros cada día
+* __Histórico__: desde febrero de 2020
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#ofertas-de-trabajo-dataset), plataforma de referencia de datos externos en España. 
 
