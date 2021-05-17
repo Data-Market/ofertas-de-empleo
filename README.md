@@ -1,4 +1,4 @@
-# Datasets de Ofertas de Trabajo
+# Datasets de Ofertas de Empleo
 
 <a href="https://datamarket.es">
   <img src="https://datamarket.es/media/banners/ofertas-de-empleo-banner.png">
@@ -30,15 +30,14 @@ A continuación se muestran las columnas de las que consta el dataset junto con 
 
 | nombre | tipo | descripción | ejemplo |
 |--------|------|-------------|---------|
-| source | str | Webs donde están publicadas las ofertas de trabajo (encriptado). Este campo será visible tras la subscripción al dataset. | E884C507C5198A4578A84498F7A323E2 |
-| title | str | Título de las ofertas de trabajo. | Marketing & Communications Assistant |
-| location | str | Localización geográfica del lugar donde se oferta cada empleo. | Madrid |
-| company | str | Nombres de las empresas que ofertan puestos laborales. | DAC |
-| publish_ago | str | Momento en el que se publicó cada oferta de trabajo. | Hace 21 horas |
-| applicants | str | Número de personas que han solicitado cada oferta de trabajo. | Más de 200 solicitantes |
-| description | str | Explicación detallada de cada una de las ofertas de empleo. | Do you share a passion for digital, love to learn and, aspire to work for a growing, top performing digital agency? Founded in |
-| senior_level | str | Requerimientos de experiencia laboral que demanda cada oferta laboral. | Algo de responsabilidad |
-| job_funtion | str | Tipo de sector profesional que define el puesto de trabajo. | Marketing |
-| job_type | str | Tipo de jornada laboral definida para cada oferta de empleo. | Jornada completa |
-| industry | str | Tipo de sector al que pertenece cada oferta laboral. | Marketing y publicidad |
-| insert_date | datetime | Fecha de extracción de la información. | 2021-01-12 10:26:00 |
+| company | str | Nombre de las empresas que ofertan puestos laborales. | GLOBALVIA |
+| description | str | Explicación detallada de cada una de las ofertas de empleo. | En Globalvia buscamos incorporar un nuevo Analista Económico Financiero para nuestra dirección Corporativa.El objetivo del ana... |
+| experience | str | Requerimientos de experiencia laboral que demanda cada oferta laboral. | Algo de responsabilidad |
+| function | str | Función que define el puesto de trabajo. | Finanzas |
+| industry | str | Tipo de sector al que pertenece cada oferta laboral. | Transporte por carretera o ferrocarril |
+| insert_date | datetime | Fecha de extracción de la información. | 2021-05-13  4:00:00 |
+| location | str | Localización geográfica del lugar donde se oferta cada empleo. | Madrid, Comunidad de Madrid, España |
+| publish_date | datetime | Momento en el que se publicó cada oferta de trabajo. | 2021-05-13  3:54:06 |
+| url | str | Url correspondiente a cada oferta de trabajo. | https://es.linkedin.com/jobs/view/analista-econ%C3%B3mico-financiero-at-globalvia-2547453338 |
+| website | str | Webs donde están publicadas las ofertas de trabajo. | linkedin |
+| worktype | str | Tipo de jornada laboral definida para cada oferta de empleo. | Jornada completa |
