@@ -38,6 +38,7 @@ A continuación se muestran las columnas de las que consta el dataset junto con 
 | insert_date | datetime | Fecha de extracción de la información. | 2021-05-13  4:00:00 |
 | location | str | Localización geográfica del lugar donde se oferta cada empleo. | Madrid, Comunidad de Madrid, España |
 | publish_date | datetime | Momento en el que se publicó cada oferta de trabajo. | 2021-05-13  3:54:06 |
+| title | str | Nombre de las ofertas de trabajo. | Analista Económico Financiero |
 | url | str | Url correspondiente a cada oferta de trabajo. | https://es.linkedin.com/jobs/view/analista-econ%C3%B3mico-financiero-at-globalvia-2547453338 |
 | website | str | Webs donde están publicadas las ofertas de trabajo. | linkedin |
 | worktype | str | Tipo de jornada laboral definida para cada oferta de empleo. | Jornada completa |
